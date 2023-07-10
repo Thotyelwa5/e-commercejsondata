@@ -1,0 +1,95 @@
+{
+    "featuredPosts": [
+  {
+    "id": "1",
+    "title": "Unlock your inner cool with our must-have hat collection!",
+    "imageUrl": "https://i.postimg.cc/mDxZRypt/hats.png "
+    
+  },
+  {
+    "id": "2",
+    "title": "Hats that make a statement: Fashion meets functionality!",
+    "imageUrl": "https://i.postimg.cc/8z5zb5rP/357138-1966-XXL.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Top off your style with our trend-setting hats.Discover the ultimate accessory to elevate your fashion game: our stunning hats.",
+    "imageUrl": "https://i.postimg.cc/J4fTthvF/maxresdefault.jpg"
+  }
+ 
+],
+"Products":   [
+    {
+      "id": "7",
+      "title": "Cap",
+      "imageUrl": "https://i.postimg.cc/d1Z43DCN/hat-7.png",
+      "price": "R100",
+      "content": "Available"
+      
+    },
+    {
+      "id": "8",
+      "title": "Hat",
+      "imageUrl": "https://i.postimg.cc/0ytfC7dH/hat2.png",
+      "price": "R150",
+      "content": "Available"
+     
+    },
+    {
+      "id": "9",
+      "title": "Hat ",
+      "imageUrl": "https://i.postimg.cc/L4fxMY2n/hat6.png",
+      "price": "R175",
+      "content": "Available"
+      
+    },
+    {
+      "id": "10",
+      "title": "Hat",
+      "imageUrl": "https://i.postimg.cc/x1QYnwTy/Winter-Soft-Warm-Knitted-Caps-Hat-06.webp",
+      "price": "R200",
+      "content": "Available"
+      
+    },
+    {
+      "id": "11",
+      "title": "Hat",
+      "imageUrl": "https://i.postimg.cc/3Rz566cG/Olympic-7-Panel-Cap-Navy.jpg",
+      "price": "R199,99",
+      "content": "Available"
+      
+    },
+    {
+      "id": "12",
+      "title": "Cap",
+      "imageUrl": "https://i.postimg.cc/7Y8rnF78/1200px-A-fedora-hat-made-by-Borsalino.jpg",
+      "price":"R149,99",
+      "content": "Available"
+      
+    },
+    {
+      "id": "13",
+      "title": "Hat",
+      "imageUrl": "https://i.postimg.cc/zXK8mz5G/download.jpg",
+      "price": "R200",
+      "content": "Available"
+      
+    },
+    {
+      "id": "14",
+      "title": "Hat",
+      "imageUrl": "https://i.postimg.cc/pTDkjThJ/2403032022-CAP-03.webp",
+      "price": "R200",
+      "content": "Available"
+      
+    },
+    {
+      "id": "15",
+      "title": "Hat",
+      "imageUrl": "https://i.postimg.cc/8cYDxND9/Screenshot-2023-06-15-103611.png",
+      "price": "R200",
+      "content": "Available"
+    
+    }
+  ]
+}
